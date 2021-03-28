@@ -8,4 +8,4 @@ In this exercises, you should make a form which takes payment information from s
 
 - **Student ID**: u1910232
 - **Student Name**: Dilshodjon Kholmurodov
-- **Section Number**: 008
+- **Section Number**: 005
